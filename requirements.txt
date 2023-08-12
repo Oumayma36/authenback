@@ -1,0 +1,8 @@
+Flask==2.0.1
+Flask-Session==0.4.0
+redis==3.5.3
+python-dotenv==0.19.1
+bcrypt==3.2.0
+pymongo==3.12.0
+flask_jwt_extended
+flask_mail
